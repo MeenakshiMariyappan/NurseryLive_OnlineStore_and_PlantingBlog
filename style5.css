@@ -1,0 +1,5 @@
+.img{
+  background-image: url("greenbg.jpg");
+  opacity: 0.90;
+  image-rendering: crisp-edges;
+}
